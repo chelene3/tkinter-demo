@@ -1,4 +1,4 @@
-from tkinter import Place, Tk, Button, Entry, Label
+from tkinter import Tk, Button, Entry, Label
 
 obj = Tk()
 obj.config(width=1000, height=500, bg="white")
