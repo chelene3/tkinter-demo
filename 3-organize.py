@@ -1,7 +1,7 @@
 from tkinter import Tk, Button, Entry, Label
 
 obj = Tk()
-obj.config(width=1000, height=500, bg="white")
+obj.config(width=1000, height=500)
 
 #Create a button
 click_button = Button(text="Click Me", command="")

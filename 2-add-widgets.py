@@ -13,7 +13,8 @@ text_field.pack()
 
 #Create a label
 name = Label(text="Demo of a Label")
+name.config(background='white', foreground='black')
 name.pack()
 
-
 obj.mainloop()
+

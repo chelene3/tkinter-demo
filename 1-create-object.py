@@ -8,3 +8,4 @@ obj.config(width=1000, height=500)
 # Blocks the code after it from running until the window is closed 
 # Usually the last line of the file
 obj.mainloop()
+
